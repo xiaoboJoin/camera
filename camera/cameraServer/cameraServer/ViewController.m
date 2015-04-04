@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"i am a server");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
